@@ -1,0 +1,20 @@
+[workspace]
+
+members = [
+    "guessing_game",
+    "variables",
+    "array",
+    "ownership",
+    "calculate_length",
+    "first_word",
+    "lifetime",
+    "longest",
+    "try_box",
+    "smart_pointer",
+    "messenger",
+    "try_return",
+    "try_trait",
+    "ripgrep",
+    "try_iterator",
+    "cal_24"
+]
